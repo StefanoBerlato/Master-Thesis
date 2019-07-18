@@ -1,4 +1,4 @@
-# Master-Thesis #
+# Master Thesis #
 
 ### Master Thesis, Computer Science ICT Innovation Security&Privacy, University of Trento - DISI, 2019
 #### Supervisor: Ranise Silvio
